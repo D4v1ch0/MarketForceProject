@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MarketForce.iml" filepath="$PROJECT_DIR$/MarketForce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-core/android-core.iml" filepath="$PROJECT_DIR$/android-core/android-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-marketforce/android-marketforce.iml" filepath="$PROJECT_DIR$/android-marketforce/android-marketforce.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,6 @@
+[submodule "android-core"]
+	path = android-core
+	url = https://github.com/rp3/android-core
+[submodule "android-marketforce"]
+	path = android-marketforce
+	url = https://github.com/rp3/android-marketforce
