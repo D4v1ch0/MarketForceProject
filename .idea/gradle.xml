@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/android-core" />
-            <option value="$PROJECT_DIR$/android-marketforce" />
+            <option value="$PROJECT_DIR$/../git/android-core" />
+            <option value="$PROJECT_DIR$/../git/android-marketforce" />
           </set>
         </option>
       </GradleProjectSettings>
