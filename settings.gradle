@@ -1,4 +1,4 @@
-include 'android-core'
+include 'android-core', ':AndroidGraphView', ':main'
 project(':android-core').projectDir = new File(settingsDir, '../git/android-core')
 include 'android-marketforce'
 project(':android-marketforce').projectDir = new File(settingsDir, '../git/android-marketforce')
