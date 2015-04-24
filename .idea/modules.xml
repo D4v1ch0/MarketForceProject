@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidGraphView/AndroidGraphView.iml" filepath="$PROJECT_DIR$/AndroidGraphView/AndroidGraphView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/main/Caldroid.iml" filepath="$PROJECT_DIR$/main/Caldroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MarketForce.iml" filepath="$PROJECT_DIR$/MarketForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarketForceProject.iml" filepath="$PROJECT_DIR$/MarketForceProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-core/android-core.iml" filepath="$PROJECT_DIR$/android-core/android-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-marketforce/android-marketforce.iml" filepath="$PROJECT_DIR$/android-marketforce/android-marketforce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
     </modules>
   </component>
 </project>
