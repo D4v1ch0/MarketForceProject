@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-core/android-core.iml" filepath="$PROJECT_DIR$/android-core/android-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-marketforce/android-marketforce.iml" filepath="$PROJECT_DIR$/android-marketforce/android-marketforce.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starIOSDK/starIOSDK.iml" filepath="$PROJECT_DIR$/starIOSDK/starIOSDK.iml" />
     </modules>
   </component>
 </project>
-
