@@ -3,5 +3,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/../git/android-marketforce/src/rp3/marketforce/Contants.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../git/android-marketforce/src/rp3/marketforce/actividades/NumericoActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/android-marketforce/src/rp3/marketforce/models/pedido/Pago.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/../git/android-marketforce/src/rp3/marketforce/pedido/ArqueoCajaAdapter.java" charset="UTF-8" />
   </component>
 </project>
