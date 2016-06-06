@@ -11,15 +11,15 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        public static int caldroid_black=0x7f040000;
-        public static int caldroid_darker_gray=0x7f040001;
-        public static int caldroid_gray=0x7f040002;
-        public static int caldroid_holo_blue_dark=0x7f040003;
-        public static int caldroid_holo_blue_light=0x7f040004;
-        public static int caldroid_lighter_gray=0x7f040005;
-        public static int caldroid_sky_blue=0x7f040006;
-        public static int caldroid_transparent=0x7f040007;
-        public static int caldroid_white=0x7f040008;
+        public static int caldroid_black=0x7f050000;
+        public static int caldroid_darker_gray=0x7f050001;
+        public static int caldroid_gray=0x7f050002;
+        public static int caldroid_holo_blue_dark=0x7f050003;
+        public static int caldroid_holo_blue_light=0x7f050004;
+        public static int caldroid_lighter_gray=0x7f050005;
+        public static int caldroid_sky_blue=0x7f050006;
+        public static int caldroid_transparent=0x7f050007;
+        public static int caldroid_white=0x7f050008;
     }
     public static final class drawable {
         public static int calendar_next_arrow=0x7f020000;
@@ -49,20 +49,20 @@ public final class R {
         public static int weekday_textview=0x7f030004;
     }
     public static final class string {
-        public static int app_name=0x7f050000;
+        public static int app_name=0x7f060000;
     }
     public static final class style {
-        /** 
+        /**  API 11 theme customizations can go here. 
+ API 14 theme customizations can go here. 
+
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- API 11 theme customizations can go here. 
- API 14 theme customizations can go here. 
          */
-        public static int AppBaseTheme=0x7f060000;
+        public static int AppBaseTheme=0x7f040000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static int AppTheme=0x7f060001;
+        public static int AppTheme=0x7f040001;
     }
 }
