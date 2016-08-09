@@ -363,6 +363,24 @@ abstract public class GraphView extends LinearLayout {
 	private boolean staticVerticalLabels;
     private boolean showHorizontalLabels = true;
     private boolean showVerticalLabels = true;
+	private boolean isMoney = false;
+	private String moneySign = "$";
+
+	public boolean isMoney() {
+		return isMoney;
+	}
+
+	public void setIsMoney(boolean isMoney) {
+		this.isMoney = isMoney;
+	}
+
+	public String getMoneySign() {
+		return moneySign;
+	}
+
+	public void setMoneySign(String moneySign) {
+		this.moneySign = moneySign;
+	}
 
 	public GraphView(Context context, AttributeSet attrs) {
 		this(context, attrs.getAttributeValue(null, "title"));
@@ -537,8 +555,16 @@ abstract public class GraphView extends LinearLayout {
 			} else {
 				numberformatter[i].setMaximumFractionDigits(0);
 			}
+
 		}
-		return numberformatter[i].format(value);
+		if (!isMoney) {
+			return numberformatter[i].format(value);
+		} else {
+			numberformatter[i].setMaximumFractionDigits(2);
+			numberformatter[i].setMinimumFractionDigits(2);
+			return moneySign + " " + numberformatter[i].format(value);
+		}
+
 	}
 
 	private String[] generateHorlabels(float graphwidth) {
