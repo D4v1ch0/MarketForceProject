@@ -84,7 +84,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 21 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="MPAndroidChart-v3.0.0-beta1" level="project" />
     <orderEntry type="library" exported="" name="StarIOPort3.1" level="project" />
     <orderEntry type="library" exported="" name="circleprogress-1.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-22.1.1" level="project" />
