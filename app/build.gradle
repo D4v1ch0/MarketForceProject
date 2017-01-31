@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "ec.com.rp3.marketforce"
+        applicationId "ec.com.rp3.auna"
         minSdkVersion 11
         targetSdkVersion 21
         versionCode 1
