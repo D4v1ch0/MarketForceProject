@@ -67,13 +67,6 @@
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/dex" />
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/dex-cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/../../git/android-core/build/intermediates/javaResources" />
