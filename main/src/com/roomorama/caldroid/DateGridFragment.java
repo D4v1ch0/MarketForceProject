@@ -2,6 +2,7 @@ package com.roomorama.caldroid;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,6 +11,8 @@ import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.GridView;
 
 import com.caldroid.R;
+
+import java.util.Date;
 
 /**
  * DateGridFragment contains only 1 gridview with 7 columns to display all the
@@ -21,6 +24,7 @@ import com.caldroid.R;
  * @author thomasdao
  */
 public class DateGridFragment extends Fragment {
+    private static final String TAG = DateGridFragment.class.getSimpleName();
     private GridView gridView;
     private CaldroidGridAdapter gridAdapter;
     private OnItemClickListener onItemClickListener;
@@ -94,6 +98,41 @@ public class DateGridFragment extends Fragment {
         }
 
         return gridView;
+    }
+
+    /**
+     *
+     * Ciclo de vida
+     *
+     */
+    @Override
+    public void onStart() {
+        super.onStart();
+        Log.d(TAG,"onStart...");
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        Log.d(TAG,"onStop...");
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        Log.d(TAG,"onResume...");
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        Log.d(TAG,"onPause...");
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        Log.d(TAG,"onDestroy...");
     }
 
 }

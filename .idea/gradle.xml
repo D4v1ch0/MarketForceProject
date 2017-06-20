@@ -13,8 +13,8 @@
             <option value="$PROJECT_DIR$/AndroidGraphView" />
             <option value="$PROJECT_DIR$/Payme_Plugin" />
             <option value="$PROJECT_DIR$/main" />
-            <option value="$PROJECT_DIR$/../git/android-core" />
-            <option value="$PROJECT_DIR$/../git/android-marketforce" />
+            <option value="$PROJECT_DIR$/../android-core" />
+            <option value="$PROJECT_DIR$/../android-marketforce" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
